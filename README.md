@@ -7,7 +7,7 @@ CUDA==11.6 mindspore==2.2.14 python==3.7.5
 # Dataset 
 Training Data: [MFQEv2](https://github.com/ryanxingql/mfqev2.0)
 
-Test Data: [MFQEv2](https://github.com/ryanxingql/mfqev2.0)
+Test Data: [JCT-VC](https://ieeexplore.ieee.org/document/6317156) and [MFQEv2](https://github.com/ryanxingql/mfqev2.0)
 
 # Train and Test
 ```python
