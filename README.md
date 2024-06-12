@@ -4,10 +4,20 @@ The Mindspore code of "Compressed Video Quality Enhancement with Temporal Group 
 # Requirements
 CUDA==11.6 mindspore==2.2.14 python==3.7.5
 
-# Training and Test Data 
+# DataSet 
 Training Data:[MFQEv2](https://github.com/ryanxingql/mfqev2.0)
 
 Test Data:[MFQEv2](https://github.com/ryanxingql/mfqev2.0)
+
+# Train
+```python
+python train_SPL.py
+```
+
+# Test
+```python
+python test_SPL.py
+```
 
 # Acknowledgments
 Thanks for the support of Huawei MindSpore Platform for training our model.
