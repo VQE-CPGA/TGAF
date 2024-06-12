@@ -8,7 +8,7 @@ CUDA==11.6 mindspore==2.2.14 python==3.7.5
 https://github.com/ryanxingql/mfqev2.0
 
 # Acknowledgments
-Thanks for the support of Huawei MindSpore Platform for training model.
+Thanks for the support of Huawei MindSpore Platform for training our model.
 
 # Citation
 @article{zhu2024compressed,
