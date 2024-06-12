@@ -9,15 +9,12 @@ Training Data:[MFQEv2](https://github.com/ryanxingql/mfqev2.0)
 
 Test Data:[MFQEv2](https://github.com/ryanxingql/mfqev2.0)
 
-# Train
+# Train and Test
 ```python
 python train_SPL.py
-```
-
-# Test
-```python
 python test_SPL.py
 ```
+
 
 # Acknowledgments
 Thanks for the support of Huawei MindSpore Platform for training our model.
