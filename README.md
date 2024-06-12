@@ -17,7 +17,7 @@ python test_SPL.py
 
 
 # Acknowledgments
-Thanks for the support of Huawei MindSpore Platform for training our model.
+Thanks for the support of Huawei MindSpore Platform for training our model. 
 
 # Citation
 ```python
