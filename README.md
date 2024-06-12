@@ -5,9 +5,9 @@ The Mindspore code of "Compressed Video Quality Enhancement with Temporal Group 
 CUDA==11.6 mindspore==2.2.14 python==3.7.5
 
 # Dataset 
-Training Data:[MFQEv2](https://github.com/ryanxingql/mfqev2.0)
+Training Data: [MFQEv2](https://github.com/ryanxingql/mfqev2.0)
 
-Test Data:[MFQEv2](https://github.com/ryanxingql/mfqev2.0)
+Test Data: [MFQEv2](https://github.com/ryanxingql/mfqev2.0)
 
 # Train and Test
 ```python
